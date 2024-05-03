@@ -10,7 +10,7 @@ body {
 
 .navbar {
   /* background: var(--navbar-background); */
-  background-image: linear-gradient(to right, #0047bb, #00a6e2);
+  background-image: linear-gradient(to right, #0064ff, #00b4ff);
   color: var(--navbar-font-color);
   font-size: calc(16 / var(--rem-base) * 1rem);
   height: var(--navbar-height);

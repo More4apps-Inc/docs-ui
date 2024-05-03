@@ -20,6 +20,10 @@ body {
   z-index: var(--z-index-navbar);
 }
 
+.navbar.cloud-erp {
+  background-image: linear-gradient(to right, #7d1be3, #ff00be);
+}
+
 .navbar a {
   text-decoration: none;
 }

@@ -111,6 +111,7 @@
 .doc p,
 .doc dl {
   margin: 0;
+  white-space: nowrap; /* effectively ignores hyphens setting */
 }
 
 .doc a {

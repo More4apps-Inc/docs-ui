@@ -24,6 +24,10 @@ body {
   background-image: linear-gradient(to right, #7d1be3, #ff00be);
 }
 
+.navbar.ebs {
+  background-image: linear-gradient(to right, #0064ff, #00b4ff);
+}
+
 .navbar a {
   text-decoration: none;
 }

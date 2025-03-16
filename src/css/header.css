@@ -20,12 +20,13 @@ body {
 }
 
 .navbar.cloud-erp {
-  background-image: linear-gradient(to right, #ff00be,#7d1be3 );
+  background-image: linear-gradient(to right, #ff00be, #7d1be3);
 }
 
 .navbar.ebs {
   background-image: linear-gradient(to right, #0064ff, #00b4ff);
 }
+
 .navbar a {
   text-decoration: none;
 }

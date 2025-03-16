@@ -9,8 +9,7 @@ body {
 }
 
 .navbar {
-  /* background: var(--navbar-background); */
-  background-image: linear-gradient(to right, #0064ff, #00b4ff);
+  background: var(--navbar-background);
   color: var(--navbar-font-color);
   font-size: calc(16 / var(--rem-base) * 1rem);
   height: var(--navbar-height);
@@ -21,13 +20,12 @@ body {
 }
 
 .navbar.cloud-erp {
-  background-image: linear-gradient(to right, #7d1be3, #ff00be);
+  background-image: linear-gradient(to right, #ff00be,#7d1be3 );
 }
 
 .navbar.ebs {
   background-image: linear-gradient(to right, #0064ff, #00b4ff);
 }
-
 .navbar a {
   text-decoration: none;
 }

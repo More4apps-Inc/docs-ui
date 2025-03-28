@@ -1046,6 +1046,10 @@
   white-space: nowrap;
 }
 
+.doc.gray-background {
+  background:#7d7d7d
+}
+
 .doc .nobreak {
   hyphens: none;
   word-wrap: normal;

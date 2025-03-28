@@ -1046,10 +1046,6 @@
   white-space: nowrap;
 }
 
-.gray-background {
-  background: #7d7d7d;
-}
-
 .doc .nobreak {
   hyphens: none;
   word-wrap: normal;
@@ -1088,4 +1084,16 @@
   margin-left: -2em;
   text-align: right;
   width: 1.5em;
+}
+
+.blue-background {
+  background: #6495ed;
+}
+
+.green-background {
+  background: #556b2f;
+}
+
+.red-background {
+  background: #a34444;
 }

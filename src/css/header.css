@@ -10,7 +10,7 @@ body {
 
 .navbar {
   background: var(--navbar-background);
-  color: var(--navbar-more4apps-font-color);
+  color: var(--navbar-font-color);
   font-size: calc(16 / var(--rem-base) * 1rem);
   height: var(--navbar-height);
   position: fixed;
@@ -24,7 +24,7 @@ body {
 }
 
 .navbar.cloud-erp-solid {
-  background-color: #f2f2f2;
+  background-color: #091F2C;
 }
 
 .navbar.ebs {
@@ -42,7 +42,7 @@ body {
 }
 
 .navbar-brand .navbar-item {
-  color: var(--navbar-more4apps-font-color);
+  color: var(--navbar-font-color);
 }
 
 .navbar-brand .navbar-item:first-child {
@@ -110,7 +110,7 @@ body {
 }
 
 .navbar-burger span {
-  background-color: var(--navbar-more4apps-font-color);
+  background-color: var(--navbar-font-color);
   height: 1.5px;
   width: 1rem;
 }
@@ -295,7 +295,7 @@ body {
   .navbar-end .navbar-link:hover,
   .navbar-end .navbar-item.has-dropdown:hover .navbar-link {
     background: var(--navbar_hover-background);
-    color: var(--navbar-more4apps-font-color);
+    color: var(--navbar-font-color);
   }
 
   .navbar-end .navbar-link::after {

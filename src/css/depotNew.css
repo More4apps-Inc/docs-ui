@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'DepotNew';
+    src: url('DepotNew-Bold.eot');
+    src: local('DepotNew Bold'), local('DepotNew-Bold'),
+        url('DepotNew-Bold.eot?#iefix') format('embedded-opentype'),
+        url('DepotNew-Bold.woff2') format('woff2'),
+        url('DepotNew-Bold.woff') format('woff'),
+        url('DepotNew-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DepotNew';
+    src: url('DepotNew-ThinItalic.eot');
+    src: local('DepotNew Thin Italic'), local('DepotNew-ThinItalic'),
+        url('DepotNew-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('DepotNew-ThinItalic.woff2') format('woff2'),
+        url('DepotNew-ThinItalic.woff') format('woff'),
+        url('DepotNew-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DepotNew';
+    src: url('DepotNew-BoldItalic.eot');
+    src: local('DepotNew Bold Italic'), local('DepotNew-BoldItalic'),
+        url('DepotNew-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('DepotNew-BoldItalic.woff2') format('woff2'),
+        url('DepotNew-BoldItalic.woff') format('woff'),
+        url('DepotNew-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DepotNew';
+    src: url('DepotNew-Regular.eot');
+    src: local('DepotNew Regular'), local('DepotNew-Regular'),
+        url('DepotNew-Regular.eot?#iefix') format('embedded-opentype'),
+        url('DepotNew-Regular.woff2') format('woff2'),
+        url('DepotNew-Regular.woff') format('woff'),
+        url('DepotNew-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DepotNew';
+    src: url('DepotNew-Medium.eot');
+    src: local('DepotNew Medium'), local('DepotNew-Medium'),
+        url('DepotNew-Medium.eot?#iefix') format('embedded-opentype'),
+        url('DepotNew-Medium.woff2') format('woff2'),
+        url('DepotNew-Medium.woff') format('woff'),
+        url('DepotNew-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DepotNew';
+    src: url('DepotNew-LightItalic.eot');
+    src: local('DepotNew Light Italic'), local('DepotNew-LightItalic'),
+        url('DepotNew-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('DepotNew-LightItalic.woff2') format('woff2'),
+        url('DepotNew-LightItalic.woff') format('woff'),
+        url('DepotNew-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DepotNew';
+    src: url('DepotNew-Italic.eot');
+    src: local('DepotNew Italic'), local('DepotNew-Italic'),
+        url('DepotNew-Italic.eot?#iefix') format('embedded-opentype'),
+        url('DepotNew-Italic.woff2') format('woff2'),
+        url('DepotNew-Italic.woff') format('woff'),
+        url('DepotNew-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DepotNew';
+    src: url('DepotNew-MediumItalic.eot');
+    src: local('DepotNew Medium Italic'), local('DepotNew-MediumItalic'),
+        url('DepotNew-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('DepotNew-MediumItalic.woff2') format('woff2'),
+        url('DepotNew-MediumItalic.woff') format('woff'),
+        url('DepotNew-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'DepotNew';
+    src: url('DepotNew-Light.eot');
+    src: local('DepotNew Light'), local('DepotNew-Light'),
+        url('DepotNew-Light.eot?#iefix') format('embedded-opentype'),
+        url('DepotNew-Light.woff2') format('woff2'),
+        url('DepotNew-Light.woff') format('woff'),
+        url('DepotNew-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DepotNew';
+    src: url('DepotNew-Thin.eot');
+    src: local('DepotNew Thin'), local('DepotNew-Thin'),
+        url('DepotNew-Thin.eot?#iefix') format('embedded-opentype'),
+        url('DepotNew-Thin.woff2') format('woff2'),
+        url('DepotNew-Thin.woff') format('woff'),
+        url('DepotNew-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+

@@ -1,0 +1,11 @@
+/* Added by Steve so we can left justify all images */
+/* Override image alignment to be left-justified by default */
+.doc .imageblock,
+.doc .videoblock {
+  align-items: flex-start;
+}
+
+.doc .imageblock .content,
+.doc .videoblock .content {
+  text-align: left;
+}

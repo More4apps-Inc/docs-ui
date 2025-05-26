@@ -1,13 +1,13 @@
 @font-face {
   font-family: "DepotNew";
-  src: url("DepotNew-Bold.eot");
+  src: url("../font/DepotNew-Bold.eot");
   src:
     local("DepotNew Bold"),
     local("DepotNew-Bold"),
-    url("DepotNew-Bold.eot?#iefix") format("embedded-opentype"),
-    url("DepotNew-Bold.woff2") format("woff2"),
-    url("DepotNew-Bold.woff") format("woff"),
-    url("DepotNew-Bold.ttf") format("truetype");
+    url("../font/DepotNew-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../font/DepotNew-Bold.woff2") format("woff2"),
+    url("../font/DepotNew-Bold.woff") format("woff"),
+    url("../font/DepotNew-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }

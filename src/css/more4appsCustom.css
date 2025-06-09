@@ -9,3 +9,7 @@
 .doc .videoblock .content {
   text-align: left;
 }
+
+.doc {
+  hyphens: manual;
+}

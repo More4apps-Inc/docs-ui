@@ -13,3 +13,10 @@
 .doc {
   hyphens: manual;
 }
+
+/* Changed the default from 45rem. This pushes the sidebar navigation to the right.
+We do it ike this because its a variable used everywhere. */
+
+:root {
+  --doc-max-width: 53rem;
+}
